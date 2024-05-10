@@ -1,0 +1,37 @@
+
+*{
+    background-color: black;
+}
+h1{
+    font-size:40px;
+    color: white;
+}
+.container{
+    margin-top: 200px;
+    margin-left: 640px;
+    margin-right: 800px;
+}
+h4{
+    margin-left: 50px;
+    color: white;
+}
+button{
+    margin-left: 80px;
+    font-size: larger;
+    color:white;
+    border:2px solid black;
+    border-radius: 5px;
+}
+.Blue{
+    background-color: blue;
+}
+.Green{
+background-color: green;
+}
+.Yellow{
+background-color: yellow;
+color:black
+}
+.Red{
+    background-color: red;
+}
